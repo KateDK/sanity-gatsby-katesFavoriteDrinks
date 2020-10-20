@@ -6,7 +6,7 @@ import PortableText from './portableText'
 import Container from './container'
 import AuthorList from './author-list'
 
-import styles from './blog-post.module.css'
+import styles from './drink-post.module.css'
 
 function BlogPost (props) {
   const {_rawBody, authors, categories, title, mainImage, publishedAt} = props

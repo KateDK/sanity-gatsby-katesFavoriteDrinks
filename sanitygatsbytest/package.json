@@ -1,0 +1,33 @@
+{
+  "name": "sanitygatsbytest",
+  "private": true,
+  "version": "1.0.0",
+  "description": "_Fully customizable drink template with a React.js front-end._",
+  "main": "package.json",
+  "author": "kate dubitski <kate.dubitski@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "sanity start",
+    "test": "sanity check"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/base": "^2.0.5",
+    "@sanity/components": "^2.0.5",
+    "@sanity/core": "^2.0.5",
+    "@sanity/default-layout": "^2.0.5",
+    "@sanity/default-login": "^2.0.5",
+    "@sanity/desk-tool": "^2.0.5",
+    "@sanity/vision": "^2.0.5",
+    "prop-types": "^15.6",
+    "react": "^16.2",
+    "react-dom": "^16.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:KateDK/sanity-gatsby-katesFavoriteDrinks.git"
+  }
+}
